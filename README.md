@@ -1,10 +1,10 @@
 ## Hi👋, I'm Lzzzt
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Lzzzzzt&show_icons=true" />
+  <img align="top" src="https://gh-readme-stats.lzzzt.cc/api?username=Lzzzzzt&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lzzzzzt&layout=compact" />
+  <img align="top" src="https://gh-readme-stats.lzzzt.cc/api/top-langs/?username=Lzzzzzt&layout=compact" />
 </a>
 
 <!--
